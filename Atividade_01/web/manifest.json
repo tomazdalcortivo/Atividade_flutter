@@ -1,6 +1,6 @@
 {
-    "name": "rotas",
-    "short_name": "rotas",
+    "name": "atividade_01",
+    "short_name": "atividade_01",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
